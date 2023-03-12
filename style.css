@@ -1,0 +1,32 @@
+#header
+{
+    color:rgb(44, 202, 150);
+    background-color:antiquewhite;
+}
+.items
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:cornflowerblue;
+}
+hr
+{
+    color:coral;
+}
+button
+{
+    background-color:rgb(169, 216, 169);
+    color:rgb(204, 100, 65);
+    border-style:ridge;
+    border-width:3px;
+}
+body
+{
+    background-color: rgb(22, 194, 194);
+}
+.end_info
+{
+    background-color:palegreen;
+    border-style:double;
+    border-width: 2px;
+    border-color:orange;
+}
